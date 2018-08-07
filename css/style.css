@@ -1,0 +1,59 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.mBox {
+    margin-left: 25px;
+    padding-bottom: 25px;
+    background-color: #eee;
+}
+
+.mBox img {
+    margin-bottom: 25px;
+}
+
+.vBox {
+    margin-left: 25px;
+    background-color: #eee;
+    padding-bottom: 25px;
+}
+
+.vBox img {
+    width: 200px;
+    margin: 5px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+table.tableizer-table {
+  font-size: 14px;
+  border: 1px solid #CCC; 
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 100px;
+  width: 100%;
+} 
+.tableizer-table td {
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #CCC;
+}
+.tableizer-table th {
+  background-color: #104E8B; 
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+  
+}
